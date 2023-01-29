@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "716899264402",
+    "project_id": "kelineyt-d7af5",
+    "storage_bucket": "kelineyt-d7af5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716899264402:android:9a278223399f39ff1f434b",
+        "android_client_info": {
+          "package_name": "com.agprastyo.kelineyt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716899264402-ta6g1c02pc5rbodmgav09pj78amgcrun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDefCtDa054IvjLHALkWZFfyTcD5L5Ym1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716899264402-ta6g1c02pc5rbodmgav09pj78amgcrun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
